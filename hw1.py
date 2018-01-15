@@ -10,4 +10,4 @@ user_birthday = input("When is your birthday? ")
 user_cake = input("What is your favorite type of cake? ")
 
 # print Hi user_name, I hope you get a user_cake cake for your birthday on user_birthday!
-print ("Hi " + user_name + ", I hope you get a " + user_cake + " cake for your birthday on " + user_birthday+ "!")
+print("Hi " + user_name + ", I hope you get a " + user_cake + " cake for your birthday on " + user_birthday+ "!")
