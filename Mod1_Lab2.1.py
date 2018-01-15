@@ -19,4 +19,4 @@ print("My favorite color is green.")
 if user_fav_color == "green":
   print("We have the same favorite color!")
 else:
-  print("Green is better than", user_fav_color, "!")
+  print("Green is better than " + user_fav_color + "!")
