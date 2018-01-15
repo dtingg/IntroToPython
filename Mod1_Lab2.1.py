@@ -7,7 +7,7 @@ user_fav_color = input("What is your favorite color? ")
 user_fav_color = user_fav_color.lower()
 
 # print their name is xxx and their favorite color is xxx
-print("Your name is", user_name, "and your favorite color is", user_fav_color, ".")
+print("Your name is " + user_name + " and your favorite color is " + user_fav_color + ".")
 
 # tell them what my name is
 print("My name is Dianna.")
@@ -17,6 +17,6 @@ print("My favorite color is green.")
 
 # tell them that my favorite color is better than theirs or tell them we have the same favorite color
 if user_fav_color == "green":
-  print ("We have the same favorite color!")
+  print("We have the same favorite color!")
 else:
-  print ("Green is better than", user_fav_color, "!")
+  print("Green is better than", user_fav_color, "!")
