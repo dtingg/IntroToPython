@@ -9,7 +9,7 @@ my_name = "Dianna"
 my_fav_color = "Green"
 
 # print my favorite color is better than theirs
-print ("My favorite color is ")
-print (my_fav_color)
-print ("My favorite color is better than yours.")
+print("My favorite color is ")
+print(my_fav_color)
+print("My favorite color is better than yours.")
 
