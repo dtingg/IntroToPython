@@ -5,9 +5,11 @@
 # Getting the user input
 name = input("Hi. What is your name? ")
 
-age = int(input("How old are you? "))
+age = input("How old are you? ")
+age = int(age)
 
-weight = int(input("Ok, last question. How many pounds do you weigh? "))
+weight = input("Ok, last question. How many pounds do you weigh? ")
+weight = int(weight)
 
 # Print lowercase and uppercase versions of name
 print("\nIf poet ee cummings were to e-mail you, he'd address you as " + name.lower() + ".")
