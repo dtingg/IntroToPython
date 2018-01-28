@@ -29,8 +29,7 @@ while guess_counter < num_guesses:
     guessed_letters.add(user_guess)
     if user_guess in actual_letters:
         print("Yes! "+ user_guess + " is in the name of my favorite animal.")
-        print("Here are the correct letters so far: ", guessed_letters.intersection(guessed_letters,actual_letters))
     else:
         print("Sorry!")
-        print("Here are the correct letters so far: ", actual_letters.intersection(guessed_letters))
+    print("Here are the correct letters so far: ", actual_letters.intersection(guessed_letters))
     guess_counter += 1

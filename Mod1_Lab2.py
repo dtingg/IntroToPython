@@ -1,15 +1,22 @@
-# get the user to input their name and store that name as a variable
-user_name = input("Enter your name: ")
+# ask the user to enter their name
+user_name = input("What is your name? ")
+user_name = user_name.title()
 
-# get the user to input their favorite color
-user_fav_color = input("Enter your favorite color: ")
+# ask the user to enter their favorite color
+user_fav_color = input("What is your favorite color? ")
+user_fav_color = user_fav_color.lower()
 
-# set my name and favorite color as variables
-my_name = "Dianna"
-my_fav_color = "Green"
+# print their name is xxx and their favorite color is xxx
+print("Your name is " + user_name + " and your favorite color is " + user_fav_color + ".")
 
-# print my favorite color is better than theirs
-print("My favorite color is ")
-print(my_fav_color)
-print("My favorite color is better than yours.")
+# tell them what my name is
+print("My name is Dianna.")
 
+# tell them what my favorite color is
+print("My favorite color is green.")
+
+# tell them that my favorite color is better than theirs or tell them we have the same favorite color
+if user_fav_color == "green":
+  print("We have the same favorite color!")
+else:
+  print("Green is better than " + user_fav_color + "!")
