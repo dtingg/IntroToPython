@@ -1,40 +1,36 @@
-"""Module 3 - Lab 2
-Guess that Animal!
-Make a word guess game of your favorite animals.
-
+"""Guess that Animal! Make a word guess game of your favorite animals.
 Create a list of animals.
 A user gets a number of guesses equal to 3 plus:
    length of the unique letters in the longest animal name
 Use a while loop to get user input until they run out of guesses
-Use a list comprehension to output the currently matching letters of the animal
-"""
+Use a list comprehension to output the currently matching letters of the animal"""
 
-#make a variable with an animal name
-animal="cat"
-#find the unique letters
-aset = set(animal)
-#give the user letters + 3 guesses
-num_guess = len(aset) + 3
-#store the guesses
+# Select my favorite animal
+fav_animal = "shark"
+
+# Set guess counter to 0.
+guess_counter = 0
+
+# Change favorite animal into a set of unique letters
+actual_letters = set(fav_animal)
+
+# Create a set for guessed letters
 guessed_letters = set()
 
-#get user input
-counter = 0
-while counter < num_guess:
-    guess = input("You have {} guesses remanining. What is your next letter?".format(num_guess))
-    if guess in guessed_letters:
-        guess = input("You already guessed that! Try again!")
-    guessed_letters.add(guess)
+# User gets number of guesses equal to 3 + number of unique letters in animal name
+num_guesses = 3 + len(set(fav_animal))
 
-# print out the matches
-for letter in animal:
-    if letter in guessed_letters:
-        print(letter)
+# Introduce the name of the game
+print("Guess my favorite animal!")
+
+# Use a while loop to get user input until they run out of guesses
+while guess_counter < num_guesses:
+    user_guess = input("Pick a letter: ")
+    guessed_letters.add(user_guess)
+    if user_guess in actual_letters:
+        print("Yes! "+ user_guess + " is in the name of my favorite animal.")
+        print("Here are the correct letters so far: ", guessed_letters.intersection(guessed_letters,actual_letters))
     else:
-        print("-")
-
-#compare each guess to the unique letters
-
-counter = counter +1
-
-union
+        print("Sorry!")
+        print("Here are the correct letters so far: ", actual_letters.intersection(guessed_letters))
+    guess_counter += 1
