@@ -6,7 +6,7 @@ print("Guess My Number!")
 
 # Computer picks a random number
 import random
-number = random.randint(1,101)
+number = random.randint(1,100)
 
 # User tries to guess number
 # Computer will keep track of number of guesses
