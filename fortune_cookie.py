@@ -10,10 +10,10 @@ import random
 
 
 # Use a while loop to give out fortunes
-go_again = "Yes"
+go_again = "yes" or "y"
 
-while go_again == "Yes":
-    number = random.randint(1, 6)
+while go_again == "yes" or "y":
+    number = random.randint(1, 5)
 
     if number == 1:
         print("The fortune you seek is in another cookie.")
@@ -31,4 +31,5 @@ while go_again == "Yes":
         print("You will be hungry again in one hour.")
 
     go_again = input("\nDo you want to try again? Yes or No: ")
+    go_again = go_again.lower()
 
