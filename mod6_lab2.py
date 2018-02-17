@@ -56,4 +56,3 @@ for root, dirs, files in os.walk(".", topdown=False):
 
 print(directories)
 print("There are " + str(len(directories)) + " subdirectories in the documents folder.")
-
