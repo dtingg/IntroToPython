@@ -1,2 +1,2 @@
 # IntroToPython
-UW Class: Foundations of Programming Python
+UW Class - Foundations of Programming (Python)
