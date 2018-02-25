@@ -19,10 +19,10 @@ tip_rate = .20
 # Write a function to calculate how many pizzas to order based on number of people and avg slices
 def pizza_order (people, avg_slices):
     slices_needed = people * avg_slices
-    if slices_needed % 8 == 0:
-        pizzas_needed = int(slices_needed / 8)
+    if slices_needed % slices_per_pizza == 0:
+        pizzas_needed = int(slices_needed / slices_per_pizza)
     else:
-        pizzas_needed = (slices_needed // 8) + 1
+        pizzas_needed = (slices_needed // slices_per_pizza) + 1
     return pizzas_needed
 
 pizzas = pizza_order(people, avg_slices)
