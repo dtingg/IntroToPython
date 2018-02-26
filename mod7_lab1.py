@@ -63,7 +63,7 @@ list1 = [ [1,2,3], ['a','b'] ]
 list2 = deepcopy(list1)
 
 # Append the letter "x" to list1
-list1.append("x")
+list1[1].append("x")
 
 print(list1)
 print(list2)
