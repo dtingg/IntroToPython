@@ -1,0 +1,698 @@
+Tag attributes are: {'id': 'top'}
+Tag attributes are: {'href': '#mw-head'}
+Tag attributes are: {'href': '#p-search'}
+Tag attributes are: {'href': '/wiki/List_of_United_States_counties_and_county-equivalents', 'class': ['mw-redirect'], 'title': 'List of United States counties and county-equivalents'}
+Tag attributes are: {'href': '/wiki/File:Washington_Locator_Map.PNG', 'class': ['image']}
+Tag attributes are: {'href': '/wiki/Adams_County,_Washington', 'title': 'Adams County, Washington'}
+Tag attributes are: {'href': '/wiki/Asotin_County,_Washington', 'title': 'Asotin County, Washington'}
+Tag attributes are: {'href': '/wiki/Benton_County,_Washington', 'title': 'Benton County, Washington'}
+Tag attributes are: {'href': '/wiki/Chelan_County,_Washington', 'title': 'Chelan County, Washington'}
+Tag attributes are: {'href': '/wiki/Clallam_County,_Washington', 'title': 'Clallam County, Washington'}
+Tag attributes are: {'href': '/wiki/Clark_County,_Washington', 'title': 'Clark County, Washington'}
+Tag attributes are: {'href': '/wiki/Columbia_County,_Washington', 'title': 'Columbia County, Washington'}
+Tag attributes are: {'href': '/wiki/Cowlitz_County,_Washington', 'title': 'Cowlitz County, Washington'}
+Tag attributes are: {'href': '/wiki/Douglas_County,_Washington', 'title': 'Douglas County, Washington'}
+Tag attributes are: {'href': '/wiki/Ferry_County,_Washington', 'title': 'Ferry County, Washington'}
+Tag attributes are: {'href': '/wiki/Franklin_County,_Washington', 'title': 'Franklin County, Washington'}
+Tag attributes are: {'href': '/wiki/Garfield_County,_Washington', 'title': 'Garfield County, Washington'}
+Tag attributes are: {'href': '/wiki/Grant_County,_Washington', 'title': 'Grant County, Washington'}
+Tag attributes are: {'href': '/wiki/Grays_Harbor_County,_Washington', 'title': 'Grays Harbor County, Washington'}
+Tag attributes are: {'href': '/wiki/Island_County,_Washington', 'title': 'Island County, Washington'}
+Tag attributes are: {'href': '/wiki/Jefferson_County,_Washington', 'title': 'Jefferson County, Washington'}
+Tag attributes are: {'href': '/wiki/King_County,_Washington', 'title': 'King County, Washington'}
+Tag attributes are: {'href': '/wiki/Kitsap_County,_Washington', 'title': 'Kitsap County, Washington'}
+Tag attributes are: {'href': '/wiki/Kittitas_County,_Washington', 'title': 'Kittitas County, Washington'}
+Tag attributes are: {'href': '/wiki/Klickitat_County,_Washington', 'title': 'Klickitat County, Washington'}
+Tag attributes are: {'href': '/wiki/Lewis_County,_Washington', 'title': 'Lewis County, Washington'}
+Tag attributes are: {'href': '/wiki/Lincoln_County,_Washington', 'title': 'Lincoln County, Washington'}
+Tag attributes are: {'href': '/wiki/Mason_County,_Washington', 'title': 'Mason County, Washington'}
+Tag attributes are: {'href': '/wiki/Okanogan_County,_Washington', 'title': 'Okanogan County, Washington'}
+Tag attributes are: {'href': '/wiki/Pacific_County,_Washington', 'title': 'Pacific County, Washington'}
+Tag attributes are: {'href': '/wiki/Pend_Oreille_County,_Washington', 'title': 'Pend Oreille County, Washington'}
+Tag attributes are: {'href': '/wiki/Pierce_County,_Washington', 'title': 'Pierce County, Washington'}
+Tag attributes are: {'href': '/wiki/San_Juan_County,_Washington', 'title': 'San Juan County, Washington'}
+Tag attributes are: {'href': '/wiki/Skagit_County,_Washington', 'title': 'Skagit County, Washington'}
+Tag attributes are: {'href': '/wiki/Skamania_County,_Washington', 'title': 'Skamania County, Washington'}
+Tag attributes are: {'href': '/wiki/Snohomish_County,_Washington', 'title': 'Snohomish County, Washington'}
+Tag attributes are: {'href': '/wiki/Spokane_County,_Washington', 'title': 'Spokane County, Washington'}
+Tag attributes are: {'href': '/wiki/Stevens_County,_Washington', 'title': 'Stevens County, Washington'}
+Tag attributes are: {'href': '/wiki/Thurston_County,_Washington', 'title': 'Thurston County, Washington'}
+Tag attributes are: {'href': '/wiki/Wahkiakum_County,_Washington', 'title': 'Wahkiakum County, Washington'}
+Tag attributes are: {'href': '/wiki/Walla_Walla_County,_Washington', 'title': 'Walla Walla County, Washington'}
+Tag attributes are: {'href': '/wiki/Whatcom_County,_Washington', 'title': 'Whatcom County, Washington'}
+Tag attributes are: {'href': '/wiki/Whitman_County,_Washington', 'title': 'Whitman County, Washington'}
+Tag attributes are: {'href': '/wiki/Yakima_County,_Washington', 'title': 'Yakima County, Washington'}
+Tag attributes are: {'href': '/wiki/State_of_Washington', 'class': ['mw-redirect'], 'title': 'State of Washington'}
+Tag attributes are: {'href': '/wiki/Garfield_County,_Washington', 'title': 'Garfield County, Washington'}
+Tag attributes are: {'href': '/wiki/King_County,_Washington', 'title': 'King County, Washington'}
+Tag attributes are: {'href': '/wiki/San_Juan_County,_Washington', 'title': 'San Juan County, Washington'}
+Tag attributes are: {'href': '/wiki/Okanogan_County,_Washington', 'title': 'Okanogan County, Washington'}
+Tag attributes are: {'href': '/wiki/County_government', 'class': ['mw-redirect'], 'title': 'County government'}
+Tag attributes are: {'href': '/wiki/Census_designated_place', 'class': ['mw-redirect'], 'title': 'Census designated place'}
+Tag attributes are: {'href': '/wiki/County_(United_States)', 'title': 'County (United States)'}
+Tag attributes are: {'href': '/wiki/U.S._state', 'title': 'U.S. state'}
+Tag attributes are: {'href': '/wiki/Washington_(state)', 'title': 'Washington (state)'}
+Tag attributes are: {'href': '/wiki/Washington_Territory', 'title': 'Washington Territory'}
+Tag attributes are: {'href': '#cite_note-1'}
+Tag attributes are: {'href': '#cite_note-historylink-2'}
+Tag attributes are: {'href': '/wiki/Oregon', 'title': 'Oregon'}
+Tag attributes are: {'href': '#cite_note-3'}
+Tag attributes are: {'href': '/wiki/Washington_State_Constitution', 'class': ['mw-redirect'], 'title': 'Washington State Constitution'}
+Tag attributes are: {'href': '#cite_note-4'}
+Tag attributes are: {'href': '#cite_note-Smith_p11-5'}
+Tag attributes are: {'href': '/wiki/List_of_U.S._county_secession_proposals#Washington', 'title': 'List of U.S. county secession proposals'}
+Tag attributes are: {'href': '/wiki/Washington_Supreme_Court', 'title': 'Washington Supreme Court'}
+Tag attributes are: {'href': '/wiki/Registered_voter', 'class': ['mw-redirect'], 'title': 'Registered voter'}
+Tag attributes are: {'href': '#cite_note-WSC_98-6'}
+Tag attributes are: {'href': '/wiki/Federal_Information_Processing_Standard', 'class': ['mw-redirect'], 'title': 'Federal Information Processing Standard'}
+Tag attributes are: {'href': '/wiki/United_States_postal_abbreviations', 'class': ['mw-redirect'], 'title': 'United States postal abbreviations'}
+Tag attributes are: {'href': '/wiki/Federal_Information_Processing_Standard_state_code', 'title': 'Federal Information Processing Standard state code'}
+Tag attributes are: {'href': '#List'}
+Tag attributes are: {'href': '#Former_county_names'}
+Tag attributes are: {'href': '#Former_counties'}
+Tag attributes are: {'href': '#Proposed_counties'}
+Tag attributes are: {'href': '#Notes'}
+Tag attributes are: {'href': '#References'}
+Tag attributes are: {'href': '#External_links'}
+Tag attributes are: {'href': '/w/index.php?title=List_of_counties_in_Washington&action=edit&section=1', 'title': 'Edit section: List'}
+Tag attributes are: {'href': '#cite_note-epa-7'}
+Tag attributes are: {'href': '#cite_note-NACO-8'}
+Tag attributes are: {'href': '#cite_note-NACO-8'}
+Tag attributes are: {'href': '#cite_note-historylink-2'}
+Tag attributes are: {'href': '#cite_note-historylink-2'}
+Tag attributes are: {'href': '#cite_note-NACO-8'}
+Tag attributes are: {'href': '#cite_note-NACO-8'}
+Tag attributes are: {'href': '/wiki/Adams_County,_Washington', 'title': 'Adams County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53001,00'}
+Tag attributes are: {'href': '/wiki/Ritzville,_Washington', 'title': 'Ritzville, Washington'}
+Tag attributes are: {'href': '/wiki/John_Adams', 'title': 'John Adams'}
+Tag attributes are: {'href': '/wiki/President_of_the_United_States', 'title': 'President of the United States'}
+Tag attributes are: {'href': '/wiki/John_Quincy_Adams', 'title': 'John Quincy Adams'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Adams_County.svg', 'class': ['image'], 'title': 'State map highlighting Adams County'}
+Tag attributes are: {'href': '/wiki/Asotin_County,_Washington', 'title': 'Asotin County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53003,00'}
+Tag attributes are: {'href': '/wiki/Asotin,_Washington', 'title': 'Asotin, Washington'}
+Tag attributes are: {'href': '/wiki/Nez_Perc%C3%A9_language', 'class': ['mw-redirect'], 'title': 'Nez Percé language'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Asotin_County.svg', 'class': ['image'], 'title': 'State map highlighting Asotin County'}
+Tag attributes are: {'href': '/wiki/Benton_County,_Washington', 'title': 'Benton County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53005,00'}
+Tag attributes are: {'href': '/wiki/Prosser,_Washington', 'title': 'Prosser, Washington'}
+Tag attributes are: {'href': '/wiki/Thomas_Hart_Benton_(politician)', 'title': 'Thomas Hart Benton (politician)'}
+Tag attributes are: {'href': '/wiki/Missouri', 'title': 'Missouri'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Benton_County.svg', 'class': ['image'], 'title': 'State map highlighting Benton County'}
+Tag attributes are: {'href': '/wiki/Chelan_County,_Washington', 'title': 'Chelan County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53007,00'}
+Tag attributes are: {'href': '/wiki/Wenatchee,_Washington', 'title': 'Wenatchee, Washington'}
+Tag attributes are: {'href': '/wiki/Native_American_(U.S.)', 'class': ['mw-redirect'], 'title': 'Native American (U.S.)'}
+Tag attributes are: {'href': '/wiki/Lake_Chelan', 'title': 'Lake Chelan'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Chelan_County.svg', 'class': ['image'], 'title': 'State map highlighting Chelan County'}
+Tag attributes are: {'href': '/wiki/Clallam_County,_Washington', 'title': 'Clallam County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53009,00'}
+Tag attributes are: {'href': '/wiki/Port_Angeles,_Washington', 'title': 'Port Angeles, Washington'}
+Tag attributes are: {'href': '/wiki/Klallam', 'title': 'Klallam'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Clallam_County.svg', 'class': ['image'], 'title': 'State map highlighting Clallam County'}
+Tag attributes are: {'href': '/wiki/Clark_County,_Washington', 'title': 'Clark County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53011,00'}
+Tag attributes are: {'href': '/wiki/Vancouver,_Washington', 'title': 'Vancouver, Washington'}
+Tag attributes are: {'href': '/wiki/William_Clark_(explorer)', 'class': ['mw-redirect'], 'title': 'William Clark (explorer)'}
+Tag attributes are: {'href': '/wiki/Lewis_and_Clark_Expedition', 'title': 'Lewis and Clark Expedition'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Clark_County.svg', 'class': ['image'], 'title': 'State map highlighting Clark County'}
+Tag attributes are: {'href': '/wiki/Columbia_County,_Washington', 'title': 'Columbia County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53013,00'}
+Tag attributes are: {'href': '/wiki/Dayton,_Washington', 'title': 'Dayton, Washington'}
+Tag attributes are: {'href': '/wiki/Columbia_River', 'title': 'Columbia River'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Columbia_County.svg', 'class': ['image'], 'title': 'State map highlighting Columbia County'}
+Tag attributes are: {'href': '/wiki/Cowlitz_County,_Washington', 'title': 'Cowlitz County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53015,00'}
+Tag attributes are: {'href': '/wiki/Kelso,_Washington', 'title': 'Kelso, Washington'}
+Tag attributes are: {'href': '/wiki/Cowlitz_(tribe)', 'class': ['mw-redirect'], 'title': 'Cowlitz (tribe)'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Cowlitz_County.svg', 'class': ['image'], 'title': 'State map highlighting Cowlitz County'}
+Tag attributes are: {'href': '/wiki/Douglas_County,_Washington', 'title': 'Douglas County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53017,00'}
+Tag attributes are: {'href': '/wiki/Waterville,_Washington', 'title': 'Waterville, Washington'}
+Tag attributes are: {'href': '/wiki/Stephen_A._Douglas', 'title': 'Stephen A. Douglas'}
+Tag attributes are: {'href': '/wiki/Illinois', 'title': 'Illinois'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Douglas_County.svg', 'class': ['image'], 'title': 'State map highlighting Douglas County'}
+Tag attributes are: {'href': '/wiki/Ferry_County,_Washington', 'title': 'Ferry County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53019,00'}
+Tag attributes are: {'href': '/wiki/Republic,_Washington', 'title': 'Republic, Washington'}
+Tag attributes are: {'href': '/wiki/Elisha_P._Ferry', 'title': 'Elisha P. Ferry'}
+Tag attributes are: {'href': '/wiki/Governor_of_Washington_State', 'class': ['mw-redirect'], 'title': 'Governor of Washington State'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Ferry_County.svg', 'class': ['image'], 'title': 'State map highlighting Ferry County'}
+Tag attributes are: {'href': '/wiki/Franklin_County,_Washington', 'title': 'Franklin County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53021,00'}
+Tag attributes are: {'href': '/wiki/Pasco,_Washington', 'title': 'Pasco, Washington'}
+Tag attributes are: {'href': '/wiki/Benjamin_Franklin', 'title': 'Benjamin Franklin'}
+Tag attributes are: {'href': '/wiki/Founding_Fathers_of_the_United_States', 'title': 'Founding Fathers of the United States'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Franklin_County.svg', 'class': ['image'], 'title': 'State map highlighting Franklin County'}
+Tag attributes are: {'href': '/wiki/Garfield_County,_Washington', 'title': 'Garfield County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53023,00'}
+Tag attributes are: {'href': '/wiki/Pomeroy,_Washington', 'title': 'Pomeroy, Washington'}
+Tag attributes are: {'href': '/wiki/James_A._Garfield', 'title': 'James A. Garfield'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Garfield_County.svg', 'class': ['image'], 'title': 'State map highlighting Garfield County'}
+Tag attributes are: {'href': '/wiki/Grant_County,_Washington', 'title': 'Grant County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53025,00'}
+Tag attributes are: {'href': '/wiki/Ephrata,_Washington', 'title': 'Ephrata, Washington'}
+Tag attributes are: {'href': '/wiki/Ulysses_S._Grant', 'title': 'Ulysses S. Grant'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Grant_County.svg', 'class': ['image'], 'title': 'State map highlighting Grant County'}
+Tag attributes are: {'href': '/wiki/Grays_Harbor_County,_Washington', 'title': 'Grays Harbor County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53027,00'}
+Tag attributes are: {'href': '/wiki/Montesano,_Washington', 'title': 'Montesano, Washington'}
+Tag attributes are: {'href': '/wiki/Grays_Harbor', 'title': 'Grays Harbor'}
+Tag attributes are: {'href': '/wiki/Robert_Gray_(sea_captain)', 'title': 'Robert Gray (sea captain)'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Grays_Harbor_County.svg', 'class': ['image'], 'title': 'State map highlighting Grays Harbor County'}
+Tag attributes are: {'href': '/wiki/Island_County,_Washington', 'title': 'Island County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53029,00'}
+Tag attributes are: {'href': '/wiki/Coupeville,_Washington', 'title': 'Coupeville, Washington'}
+Tag attributes are: {'href': '/wiki/Whidbey_Island', 'title': 'Whidbey Island'}
+Tag attributes are: {'href': '/wiki/Camano_Island', 'title': 'Camano Island'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Island_County.svg', 'class': ['image'], 'title': 'State map highlighting Island County'}
+Tag attributes are: {'href': '/wiki/Jefferson_County,_Washington', 'title': 'Jefferson County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53031,00'}
+Tag attributes are: {'href': '/wiki/Port_Townsend,_Washington', 'title': 'Port Townsend, Washington'}
+Tag attributes are: {'href': '/wiki/Thomas_Jefferson', 'title': 'Thomas Jefferson'}
+Tag attributes are: {'href': '/wiki/United_States_Declaration_of_Independence', 'title': 'United States Declaration of Independence'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Jefferson_County.svg', 'class': ['image'], 'title': 'State map highlighting Jefferson County'}
+Tag attributes are: {'href': '/wiki/King_County,_Washington', 'title': 'King County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53033,00'}
+Tag attributes are: {'href': '/wiki/Seattle,_Washington', 'class': ['mw-redirect'], 'title': 'Seattle, Washington'}
+Tag attributes are: {'href': '/wiki/William_R._King', 'title': 'William R. King'}
+Tag attributes are: {'href': '/wiki/Franklin_Pierce', 'title': 'Franklin Pierce'}
+Tag attributes are: {'href': '/wiki/Martin_Luther_King,_Jr.', 'class': ['mw-redirect'], 'title': 'Martin Luther King, Jr.'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_King_County.svg', 'class': ['image'], 'title': 'State map highlighting King County'}
+Tag attributes are: {'href': '/wiki/Kitsap_County,_Washington', 'title': 'Kitsap County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53035,00'}
+Tag attributes are: {'href': '/wiki/Port_Orchard,_Washington', 'title': 'Port Orchard, Washington'}
+Tag attributes are: {'href': '/wiki/Chief_Kitsap', 'class': ['mw-redirect'], 'title': 'Chief Kitsap'}
+Tag attributes are: {'href': '/wiki/Suquamish_tribe', 'class': ['mw-redirect'], 'title': 'Suquamish tribe'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Kitsap_County.svg', 'class': ['image'], 'title': 'State map highlighting Kitsap County'}
+Tag attributes are: {'href': '/wiki/Kittitas_County,_Washington', 'title': 'Kittitas County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53037,00'}
+Tag attributes are: {'href': '/wiki/Ellensburg,_Washington', 'title': 'Ellensburg, Washington'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Kittitas_County.svg', 'class': ['image'], 'title': 'State map highlighting Kittitas County'}
+Tag attributes are: {'href': '/wiki/Klickitat_County,_Washington', 'title': 'Klickitat County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53039,00'}
+Tag attributes are: {'href': '/wiki/Goldendale,_Washington', 'title': 'Goldendale, Washington'}
+Tag attributes are: {'href': '/wiki/Klickitat_Tribe', 'class': ['mw-redirect'], 'title': 'Klickitat Tribe'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Klickitat_County.svg', 'class': ['image'], 'title': 'State map highlighting Klickitat County'}
+Tag attributes are: {'href': '/wiki/Lewis_County,_Washington', 'title': 'Lewis County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53041,00'}
+Tag attributes are: {'href': '/wiki/Chehalis,_Washington', 'title': 'Chehalis, Washington'}
+Tag attributes are: {'href': '/wiki/Meriwether_Lewis', 'title': 'Meriwether Lewis'}
+Tag attributes are: {'href': '/wiki/Lewis_and_Clark_Expedition', 'title': 'Lewis and Clark Expedition'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Lewis_County.svg', 'class': ['image'], 'title': 'State map highlighting Lewis County'}
+Tag attributes are: {'href': '/wiki/Lincoln_County,_Washington', 'title': 'Lincoln County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53043,00'}
+Tag attributes are: {'href': '/wiki/Davenport,_Washington', 'title': 'Davenport, Washington'}
+Tag attributes are: {'href': '/wiki/Abraham_Lincoln', 'title': 'Abraham Lincoln'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Lincoln_County.svg', 'class': ['image'], 'title': 'State map highlighting Lincoln County'}
+Tag attributes are: {'href': '/wiki/Mason_County,_Washington', 'title': 'Mason County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53045,00'}
+Tag attributes are: {'href': '/wiki/Shelton,_Washington', 'title': 'Shelton, Washington'}
+Tag attributes are: {'href': '/wiki/Charles_H._Mason', 'title': 'Charles H. Mason'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Mason_County.svg', 'class': ['image'], 'title': 'State map highlighting Mason County'}
+Tag attributes are: {'href': '/wiki/Okanogan_County,_Washington', 'title': 'Okanogan County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53047,00'}
+Tag attributes are: {'href': '/wiki/Okanogan,_Washington', 'title': 'Okanogan, Washington'}
+Tag attributes are: {'href': '/wiki/Salishan_languages', 'title': 'Salishan languages'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Okanogan_County.svg', 'class': ['image'], 'title': 'State map highlighting Okanogan County'}
+Tag attributes are: {'href': '/wiki/Pacific_County,_Washington', 'title': 'Pacific County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53049,00'}
+Tag attributes are: {'href': '/wiki/South_Bend,_Washington', 'title': 'South Bend, Washington'}
+Tag attributes are: {'href': '/wiki/Pacific_Ocean', 'title': 'Pacific Ocean'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Pacific_County.svg', 'class': ['image'], 'title': 'State map highlighting Pacific County'}
+Tag attributes are: {'href': '/wiki/Pend_Oreille_County,_Washington', 'title': 'Pend Oreille County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53051,00'}
+Tag attributes are: {'href': '/wiki/Newport,_Washington', 'title': 'Newport, Washington'}
+Tag attributes are: {'href': '/wiki/Pend_d%27Oreilles_(tribe)', 'class': ['mw-redirect'], 'title': "Pend d'Oreilles (tribe)"}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Pend_Oreille_County.svg', 'class': ['image'], 'title': 'State map highlighting Pend Oreille County'}
+Tag attributes are: {'href': '/wiki/Pierce_County,_Washington', 'title': 'Pierce County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53053,00'}
+Tag attributes are: {'href': '/wiki/Tacoma,_Washington', 'title': 'Tacoma, Washington'}
+Tag attributes are: {'href': '/wiki/Franklin_Pierce', 'title': 'Franklin Pierce'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Pierce_County.svg', 'class': ['image'], 'title': 'State map highlighting Pierce County'}
+Tag attributes are: {'href': '/wiki/San_Juan_County,_Washington', 'title': 'San Juan County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53055,00'}
+Tag attributes are: {'href': '/wiki/Friday_Harbor,_Washington', 'title': 'Friday Harbor, Washington'}
+Tag attributes are: {'href': '/wiki/San_Juan_Island', 'title': 'San Juan Island'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_San_Juan_County.svg', 'class': ['image'], 'title': 'State map highlighting San Juan County'}
+Tag attributes are: {'href': '/wiki/Skagit_County,_Washington', 'title': 'Skagit County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53057,00'}
+Tag attributes are: {'href': '/wiki/Mount_Vernon,_Washington', 'title': 'Mount Vernon, Washington'}
+Tag attributes are: {'href': '/wiki/Skagit_(tribe)', 'class': ['mw-redirect'], 'title': 'Skagit (tribe)'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Skagit_County.svg', 'class': ['image'], 'title': 'State map highlighting Skagit County'}
+Tag attributes are: {'href': '/wiki/Skamania_County,_Washington', 'title': 'Skamania County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53059,00'}
+Tag attributes are: {'href': '/wiki/Stevenson,_Washington', 'title': 'Stevenson, Washington'}
+Tag attributes are: {'href': '/wiki/Chinookan', 'class': ['mw-redirect'], 'title': 'Chinookan'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Skamania_County.svg', 'class': ['image'], 'title': 'State map highlighting Skamania County'}
+Tag attributes are: {'href': '/wiki/Snohomish_County,_Washington', 'title': 'Snohomish County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53061,00'}
+Tag attributes are: {'href': '/wiki/Everett,_Washington', 'title': 'Everett, Washington'}
+Tag attributes are: {'href': '/wiki/Snohomish_(tribe)', 'class': ['mw-redirect'], 'title': 'Snohomish (tribe)'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Snohomish_County.svg', 'class': ['image'], 'title': 'State map highlighting Snohomish County'}
+Tag attributes are: {'href': '/wiki/Spokane_County,_Washington', 'title': 'Spokane County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53063,00'}
+Tag attributes are: {'href': '/wiki/Spokane,_Washington', 'title': 'Spokane, Washington'}
+Tag attributes are: {'href': '#endnote_spokane'}
+Tag attributes are: {'href': '/wiki/Spokane_(people)', 'class': ['mw-redirect'], 'title': 'Spokane (people)'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Spokane_County.svg', 'class': ['image'], 'title': 'State map highlighting Spokane County'}
+Tag attributes are: {'href': '/wiki/Stevens_County,_Washington', 'title': 'Stevens County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53065,00'}
+Tag attributes are: {'href': '/wiki/Colville,_Washington', 'title': 'Colville, Washington'}
+Tag attributes are: {'href': '/wiki/Isaac_Stevens', 'title': 'Isaac Stevens'}
+Tag attributes are: {'href': '/wiki/Washington_Territory', 'title': 'Washington Territory'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Stevens_County.svg', 'class': ['image'], 'title': 'State map highlighting Stevens County'}
+Tag attributes are: {'href': '/wiki/Thurston_County,_Washington', 'title': 'Thurston County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53067,00'}
+Tag attributes are: {'href': '/wiki/Olympia,_Washington', 'title': 'Olympia, Washington'}
+Tag attributes are: {'href': '/wiki/Samuel_Thurston', 'title': 'Samuel Thurston'}
+Tag attributes are: {'href': '/wiki/Oregon_Territory', 'title': 'Oregon Territory'}
+Tag attributes are: {'href': '/wiki/United_States_Congress', 'title': 'United States Congress'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Thurston_County.svg', 'class': ['image'], 'title': 'State map highlighting Thurston County'}
+Tag attributes are: {'href': '/wiki/Wahkiakum_County,_Washington', 'title': 'Wahkiakum County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53069,00'}
+Tag attributes are: {'href': '/wiki/Cathlamet,_Washington', 'title': 'Cathlamet, Washington'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Wahkiakum_County.svg', 'class': ['image'], 'title': 'State map highlighting Wahkiakum County'}
+Tag attributes are: {'href': '/wiki/Walla_Walla_County,_Washington', 'title': 'Walla Walla County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53071,00'}
+Tag attributes are: {'href': '/wiki/Walla_Walla,_Washington', 'title': 'Walla Walla, Washington'}
+Tag attributes are: {'href': '/wiki/Walla_Walla_(tribe)', 'class': ['mw-redirect'], 'title': 'Walla Walla (tribe)'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Walla_Walla_County.svg', 'class': ['image'], 'title': 'State map highlighting Walla Walla County'}
+Tag attributes are: {'href': '/wiki/Whatcom_County,_Washington', 'title': 'Whatcom County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53073,00'}
+Tag attributes are: {'href': '/wiki/Bellingham,_Washington', 'title': 'Bellingham, Washington'}
+Tag attributes are: {'href': '/wiki/Nooksack_language', 'title': 'Nooksack language'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Whatcom_County.svg', 'class': ['image'], 'title': 'State map highlighting Whatcom County'}
+Tag attributes are: {'href': '/wiki/Whitman_County,_Washington', 'title': 'Whitman County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53075,00'}
+Tag attributes are: {'href': '/wiki/Colfax,_Washington', 'title': 'Colfax, Washington'}
+Tag attributes are: {'href': '/wiki/Marcus_Whitman', 'title': 'Marcus Whitman'}
+Tag attributes are: {'href': '/wiki/Methodist', 'class': ['mw-redirect'], 'title': 'Methodist'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Whitman_County.svg', 'class': ['image'], 'title': 'State map highlighting Whitman County'}
+Tag attributes are: {'href': '/wiki/Yakima_County,_Washington', 'title': 'Yakima County, Washington'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.census.gov/quickfacts/table/PST045215/53077,00'}
+Tag attributes are: {'href': '/wiki/Yakima,_Washington', 'title': 'Yakima, Washington'}
+Tag attributes are: {'href': '/wiki/Yakama', 'title': 'Yakama'}
+Tag attributes are: {'href': '/wiki/File:Map_of_Washington_highlighting_Yakima_County.svg', 'class': ['image'], 'title': 'State map highlighting Yakima County'}
+Tag attributes are: {'href': '/w/index.php?title=List_of_counties_in_Washington&action=edit&section=2', 'title': 'Edit section: Former county names'}
+Tag attributes are: {'href': '/wiki/Chehalis_people', 'title': 'Chehalis people'}
+Tag attributes are: {'href': '/wiki/Grays_Harbor_County,_Washington', 'title': 'Grays Harbor County, Washington'}
+Tag attributes are: {'href': '#cite_note-9'}
+Tag attributes are: {'href': '#cite_note-10'}
+Tag attributes are: {'href': '/wiki/Sahewamish_tribe', 'class': ['mw-redirect'], 'title': 'Sahewamish tribe'}
+Tag attributes are: {'href': '/wiki/Mason_County,_Washington', 'title': 'Mason County, Washington'}
+Tag attributes are: {'href': '#cite_note-11'}
+Tag attributes are: {'href': '/wiki/Kitsap_County,_Washington', 'title': 'Kitsap County, Washington'}
+Tag attributes are: {'href': '#cite_note-12'}
+Tag attributes are: {'href': '#cite_note-13'}
+Tag attributes are: {'href': '/wiki/George_Vancouver', 'title': 'George Vancouver'}
+Tag attributes are: {'href': '/wiki/Clark_County,_Washington', 'title': 'Clark County, Washington'}
+Tag attributes are: {'href': '#cite_note-14'}
+Tag attributes are: {'href': '#cite_note-15'}
+Tag attributes are: {'href': '/w/index.php?title=List_of_counties_in_Washington&action=edit&section=3', 'title': 'Edit section: Former counties'}
+Tag attributes are: {'href': '/wiki/Walla_Walla_County,_Washington', 'title': 'Walla Walla County, Washington'}
+Tag attributes are: {'href': '/wiki/Yakima_County,_Washington', 'title': 'Yakima County, Washington'}
+Tag attributes are: {'href': '#cite_note-16'}
+Tag attributes are: {'href': '#cite_note-17'}
+Tag attributes are: {'href': '#cite_note-Smith_p11-5'}
+Tag attributes are: {'href': '/w/index.php?title=List_of_counties_in_Washington&action=edit&section=4', 'title': 'Edit section: Proposed counties'}
+Tag attributes are: {'href': '/wiki/List_of_U.S._county_secession_proposals#Washington', 'title': 'List of U.S. county secession proposals'}
+Tag attributes are: {'href': '#cite_note-18'}
+Tag attributes are: {'href': '#cite_note-19'}
+Tag attributes are: {'href': '#cite_note-20'}
+Tag attributes are: {'href': '#cite_note-21'}
+Tag attributes are: {'href': '/w/index.php?title=List_of_counties_in_Washington&action=edit&section=5', 'title': 'Edit section: Notes'}
+Tag attributes are: {'href': '#ref_spokane'}
+Tag attributes are: {'href': '#cite_note-22'}
+Tag attributes are: {'href': '/w/index.php?title=List_of_counties_in_Washington&action=edit&section=6', 'title': 'Edit section: References'}
+Tag attributes are: {'href': '#cite_ref-1'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'https://www.webcitation.org/6939xOSkW?url=http://www.wsulibs.wsu.edu/holland/masc/PNWTimeline.htm'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.wsulibs.wsu.edu/holland/masc/PNWTimeline.htm'}
+Tag attributes are: {'href': '#cite_ref-historylink_2-0'}
+Tag attributes are: {'href': '#cite_ref-historylink_2-1'}
+Tag attributes are: {'href': '#cite_ref-historylink_2-2'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'https://web.archive.org/web/20080328235316/http://www.historylink.org/results.cfm?keyword=countythumbnails'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.historylink.org/results.cfm?keyword=countythumbnails'}
+Tag attributes are: {'href': '#cite_ref-3'}
+Tag attributes are: {'href': '#CITEREFSmith1913'}
+Tag attributes are: {'href': '#cite_ref-4'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.leg.wa.gov/LAWSANDAGENCYRULES/Pages/constitution.aspx'}
+Tag attributes are: {'href': '#cite_ref-Smith_p11_5-0'}
+Tag attributes are: {'href': '#cite_ref-Smith_p11_5-1'}
+Tag attributes are: {'href': '#CITEREFSmith1913'}
+Tag attributes are: {'href': '#cite_ref-WSC_98_6-0'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'https://news.google.com/newspapers?id=P3xXAAAAIBAJ&sjid=mfEDAAAAIBAJ&pg=6800,5180936'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://caselaw.findlaw.com/wa-supreme-court/1428561.html'}
+Tag attributes are: {'href': '#cite_ref-epa_7-0'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.epa.gov/enviro/html/codes/wa.html'}
+Tag attributes are: {'href': '#cite_ref-NACO_8-0'}
+Tag attributes are: {'href': '#cite_ref-NACO_8-1'}
+Tag attributes are: {'href': '#cite_ref-NACO_8-2'}
+Tag attributes are: {'href': '#cite_ref-NACO_8-3'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.naco.org/Counties/Pages/FindACounty.aspx'}
+Tag attributes are: {'href': '#cite_ref-9'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.historylink.org/index.cfm?DisplayPage=output.cfm&file_id=8645'}
+Tag attributes are: {'href': '#cite_ref-10'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'https://books.google.com/books?id=aNmwAAAAIAAJ&pg=PA250'}
+Tag attributes are: {'href': '#cite_ref-11'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.historylink.org/index.cfm?DisplayPage=output.cfm&file_id=7731'}
+Tag attributes are: {'href': '#cite_ref-12'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.historylink.org/index.cfm?DisplayPage=output.cfm&file_id=7867'}
+Tag attributes are: {'href': '#cite_ref-13'}
+Tag attributes are: {'href': '#CITEREFSmith1913'}
+Tag attributes are: {'href': '#cite_ref-14'}
+Tag attributes are: {'href': '#CITEREFSmith1913'}
+Tag attributes are: {'href': '#cite_ref-15'}
+Tag attributes are: {'href': '#CITEREFHolman1910'}
+Tag attributes are: {'href': '#cite_ref-16'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.historylink.org/index.cfm?DisplayPage=output.cfm&file_id=7486'}
+Tag attributes are: {'href': '#cite_ref-17'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.historylink.org/index.cfm?DisplayPage=output.cfm&File_Id=5380'}
+Tag attributes are: {'href': '#cite_ref-18'}
+Tag attributes are: {'href': '#CITEREFSmith1913'}
+Tag attributes are: {'href': '#cite_ref-19'}
+Tag attributes are: {'href': '#CITEREFMeany1922'}
+Tag attributes are: {'href': '#cite_ref-20'}
+Tag attributes are: {'href': '#CITEREFSmith1913'}
+Tag attributes are: {'href': '#cite_ref-21'}
+Tag attributes are: {'href': '#CITEREFSmith1913'}
+Tag attributes are: {'href': '#cite_ref-22'}
+Tag attributes are: {'href': '#CITEREFSmith1913'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'https://books.google.com/books?id=VrY1AAAAIAAJ'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://journals.lib.washington.edu/index.php/WHQ/article/view/6241'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'https://books.google.com/books?id=S2vNZw3-IYQC'}
+Tag attributes are: {'href': '/w/index.php?title=List_of_counties_in_Washington&action=edit&section=7', 'title': 'Edit section: External links'}
+Tag attributes are: {'rel': ['nofollow'], 'class': ['external', 'text'], 'href': 'http://www.genealogyinc.com/washington/maps/'}
+Tag attributes are: {'href': '/wiki/Template:U.S._Counties', 'title': 'Template:U.S. Counties'}
+Tag attributes are: {'href': '/wiki/Template_talk:U.S._Counties', 'title': 'Template talk:U.S. Counties'}
+Tag attributes are: {'class': ['external', 'text'], 'href': '//en.wikipedia.org/w/index.php?title=Template:U.S._Counties&action=edit'}
+Tag attributes are: {'href': '/wiki/List_of_United_States_counties_and_county_equivalents', 'title': 'List of United States counties and county equivalents'}
+Tag attributes are: {'href': '/wiki/U.S._state', 'title': 'U.S. state'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Alabama', 'title': 'List of counties in Alabama'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Alaska', 'class': ['mw-redirect'], 'title': 'List of counties in Alaska'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Arizona', 'title': 'List of counties in Arizona'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Arkansas', 'title': 'List of counties in Arkansas'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_California', 'title': 'List of counties in California'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Colorado', 'title': 'List of counties in Colorado'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Connecticut', 'title': 'List of counties in Connecticut'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Delaware', 'title': 'List of counties in Delaware'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Florida', 'title': 'List of counties in Florida'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Georgia_(U.S._state)', 'title': 'List of counties in Georgia (U.S. state)'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Hawaii', 'title': 'List of counties in Hawaii'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Idaho', 'title': 'List of counties in Idaho'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Illinois', 'title': 'List of counties in Illinois'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Indiana', 'title': 'List of counties in Indiana'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Iowa', 'title': 'List of counties in Iowa'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Kansas', 'title': 'List of counties in Kansas'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Kentucky', 'title': 'List of counties in Kentucky'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Louisiana', 'class': ['mw-redirect'], 'title': 'List of counties in Louisiana'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Maine', 'title': 'List of counties in Maine'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Maryland', 'title': 'List of counties in Maryland'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Massachusetts', 'title': 'List of counties in Massachusetts'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Michigan', 'title': 'List of counties in Michigan'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Minnesota', 'title': 'List of counties in Minnesota'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Mississippi', 'title': 'List of counties in Mississippi'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Missouri', 'title': 'List of counties in Missouri'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Montana', 'title': 'List of counties in Montana'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Nebraska', 'title': 'List of counties in Nebraska'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Nevada', 'title': 'List of counties in Nevada'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_New_Hampshire', 'title': 'List of counties in New Hampshire'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_New_Jersey', 'title': 'List of counties in New Jersey'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_New_Mexico', 'title': 'List of counties in New Mexico'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_New_York', 'title': 'List of counties in New York'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_North_Carolina', 'title': 'List of counties in North Carolina'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_North_Dakota', 'title': 'List of counties in North Dakota'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Ohio', 'title': 'List of counties in Ohio'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Oklahoma', 'title': 'List of counties in Oklahoma'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Oregon', 'title': 'List of counties in Oregon'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Pennsylvania', 'title': 'List of counties in Pennsylvania'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Rhode_Island', 'title': 'List of counties in Rhode Island'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_South_Carolina', 'title': 'List of counties in South Carolina'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_South_Dakota', 'title': 'List of counties in South Dakota'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Tennessee', 'title': 'List of counties in Tennessee'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Texas', 'title': 'List of counties in Texas'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Utah', 'title': 'List of counties in Utah'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Vermont', 'title': 'List of counties in Vermont'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Virginia', 'class': ['mw-redirect'], 'title': 'List of counties in Virginia'}
+Tag attributes are: {'class': ['mw-selflink', 'selflink']}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_West_Virginia', 'title': 'List of counties in West Virginia'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Wisconsin', 'title': 'List of counties in Wisconsin'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Wyoming', 'title': 'List of counties in Wyoming'}
+Tag attributes are: {'href': '/wiki/Federal_district', 'title': 'Federal district'}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Washington,_D.C.', 'class': ['mw-redirect'], 'title': 'List of counties in Washington, D.C.'}
+Tag attributes are: {'href': '/wiki/Template:Washington_places', 'title': 'Template:Washington places'}
+Tag attributes are: {'href': '/wiki/Template_talk:Washington_places', 'title': 'Template talk:Washington places'}
+Tag attributes are: {'class': ['external', 'text'], 'href': '//en.wikipedia.org/w/index.php?title=Template:Washington_places&action=edit'}
+Tag attributes are: {'href': '/wiki/Washington_(state)', 'title': 'Washington (state)'}
+Tag attributes are: {'href': '/wiki/List_of_cities_in_Washington', 'title': 'List of cities in Washington'}
+Tag attributes are: {'href': '/wiki/List_of_towns_in_Washington', 'title': 'List of towns in Washington'}
+Tag attributes are: {'href': '/wiki/List_of_census-designated_places_in_Washington', 'title': 'List of census-designated places in Washington'}
+Tag attributes are: {'href': '/wiki/List_of_unincorporated_communities_in_Washington', 'title': 'List of unincorporated communities in Washington'}
+Tag attributes are: {'href': '/wiki/List_of_Indian_reservations_in_Washington', 'class': ['mw-redirect'], 'title': 'List of Indian reservations in Washington'}
+Tag attributes are: {'href': '/wiki/List_of_ghost_towns_in_Washington', 'title': 'List of ghost towns in Washington'}
+Tag attributes are: {'href': '/wiki/List_of_regions_of_the_United_States#Washington', 'title': 'List of regions of the United States'}
+Tag attributes are: {'class': ['mw-selflink', 'selflink']}
+Tag attributes are: {'href': '/wiki/Washington%27s_congressional_districts', 'title': "Washington's congressional districts"}
+Tag attributes are: {'href': '/wiki/List_of_state_routes_in_Washington', 'title': 'List of state routes in Washington'}
+Tag attributes are: {'href': '/wiki/National_Register_of_Historic_Places_listings_in_Washington_state', 'title': 'National Register of Historic Places listings in Washington state'}
+Tag attributes are: {'href': '/wiki/List_of_federal_lands_in_Washington_(state)', 'title': 'List of federal lands in Washington (state)'}
+Tag attributes are: {'href': '/wiki/Template:Washington', 'title': 'Template:Washington'}
+Tag attributes are: {'href': '/wiki/Template_talk:Washington', 'title': 'Template talk:Washington'}
+Tag attributes are: {'class': ['external', 'text'], 'href': '//en.wikipedia.org/w/index.php?title=Template:Washington&action=edit'}
+Tag attributes are: {'href': '/wiki/U.S._state', 'title': 'U.S. state'}
+Tag attributes are: {'href': '/wiki/Washington_(state)', 'title': 'Washington (state)'}
+Tag attributes are: {'href': '/wiki/Olympia,_Washington', 'title': 'Olympia, Washington'}
+Tag attributes are: {'href': '/wiki/Category:Washington_(state)', 'title': 'Category:Washington (state)'}
+Tag attributes are: {'href': '/wiki/List_of_cities_in_Washington', 'title': 'List of cities in Washington'}
+Tag attributes are: {'href': '/wiki/List_of_towns_in_Washington', 'title': 'List of towns in Washington'}
+Tag attributes are: {'href': '/wiki/List_of_census-designated_places_in_Washington', 'title': 'List of census-designated places in Washington'}
+Tag attributes are: {'href': '/wiki/List_of_federal_lands_in_Washington_(state)', 'title': 'List of federal lands in Washington (state)'}
+Tag attributes are: {'href': '/wiki/List_of_Native_American_reservations_in_Washington', 'title': 'List of Native American reservations in Washington'}
+Tag attributes are: {'href': '/wiki/History_of_Washington_(state)', 'title': 'History of Washington (state)'}
+Tag attributes are: {'href': '/wiki/Washington_(state)#Geography', 'title': 'Washington (state)'}
+Tag attributes are: {'href': '/wiki/List_of_earthquakes_in_Washington_(state)', 'title': 'List of earthquakes in Washington (state)'}
+Tag attributes are: {'href': '/wiki/List_of_people_from_Washington_(state)', 'title': 'List of people from Washington (state)'}
+Tag attributes are: {'href': '/wiki/Music_of_Washington_(state)', 'title': 'Music of Washington (state)'}
+Tag attributes are: {'href': '/wiki/List_of_Washington_state_parks', 'title': 'List of Washington state parks'}
+Tag attributes are: {'href': '/wiki/State_highways_in_Washington', 'title': 'State highways in Washington'}
+Tag attributes are: {'href': '/wiki/List_of_Washington_state_symbols', 'title': 'List of Washington state symbols'}
+Tag attributes are: {'href': '/wiki/Category:Tourist_attractions_in_Washington_(state)', 'title': 'Category:Tourist attractions in Washington (state)'}
+Tag attributes are: {'href': '/wiki/File:Seal_of_Washington.svg', 'class': ['image']}
+Tag attributes are: {'href': '/wiki/Cannabis_in_Washington_(state)', 'title': 'Cannabis in Washington (state)'}
+Tag attributes are: {'href': '/wiki/Category:Washington_(state)_culture', 'title': 'Category:Washington (state) culture'}
+Tag attributes are: {'href': '/wiki/Crime_in_Washington', 'title': 'Crime in Washington'}
+Tag attributes are: {'href': '/wiki/Demographics_of_Washington', 'class': ['mw-redirect'], 'title': 'Demographics of Washington'}
+Tag attributes are: {'href': '/wiki/Economy_of_Washington_(state)', 'title': 'Economy of Washington (state)'}
+Tag attributes are: {'href': '/wiki/Education_in_Washington', 'class': ['mw-redirect'], 'title': 'Education in Washington'}
+Tag attributes are: {'href': '/wiki/Washington_(state)#Politics', 'title': 'Washington (state)'}
+Tag attributes are: {'href': '/wiki/Government_of_Washington_(state)', 'title': 'Government of Washington (state)'}
+Tag attributes are: {'href': '/wiki/Law_of_Washington', 'class': ['mw-redirect'], 'title': 'Law of Washington'}
+Tag attributes are: {'href': '/wiki/List_of_Governors_of_Washington', 'title': 'List of Governors of Washington'}
+Tag attributes are: {'href': '/wiki/Washington_State_Legislature', 'title': 'Washington State Legislature'}
+Tag attributes are: {'href': '/wiki/Washington_state_legislative_districts', 'title': 'Washington state legislative districts'}
+Tag attributes are: {'href': '/wiki/Washington_State_Senate', 'title': 'Washington State Senate'}
+Tag attributes are: {'href': '/wiki/Washington_House_of_Representatives', 'title': 'Washington House of Representatives'}
+Tag attributes are: {'href': '/wiki/List_of_Washington_initiatives_to_the_legislature', 'title': 'List of Washington initiatives to the legislature'}
+Tag attributes are: {'href': '/wiki/List_of_Washington_initiatives_to_the_people', 'title': 'List of Washington initiatives to the people'}
+Tag attributes are: {'href': '/wiki/United_States_congressional_delegations_from_Washington', 'title': 'United States congressional delegations from Washington'}
+Tag attributes are: {'href': '/wiki/Washington%27s_congressional_districts', 'title': "Washington's congressional districts"}
+Tag attributes are: {'href': '/wiki/City_government_in_Washington_(state)', 'title': 'City government in Washington (state)'}
+Tag attributes are: {'href': '/wiki/List_of_Washington_state_agencies', 'title': 'List of Washington state agencies'}
+Tag attributes are: {'href': '/w/index.php?title=Washington_State_Department_of_Agriculture&action=edit&redlink=1', 'class': ['new'], 'title': 'Washington State Department of Agriculture (page does not exist)'}
+Tag attributes are: {'href': '/wiki/Washington_State_Department_of_Archaeology_and_Historic_Preservation', 'title': 'Washington State Department of Archaeology and Historic Preservation'}
+Tag attributes are: {'href': '/w/index.php?title=Washington_State_Department_of_Commerce&action=edit&redlink=1', 'class': ['new'], 'title': 'Washington State Department of Commerce (page does not exist)'}
+Tag attributes are: {'href': '/wiki/Washington_State_Department_of_Corrections', 'title': 'Washington State Department of Corrections'}
+Tag attributes are: {'href': '/wiki/Washington_State_Department_of_Early_Learning', 'title': 'Washington State Department of Early Learning'}
+Tag attributes are: {'href': '/wiki/Washington_State_Department_of_Ecology', 'title': 'Washington State Department of Ecology'}
+Tag attributes are: {'href': '/w/index.php?title=Washington_State_Employment_Security_Department&action=edit&redlink=1', 'class': ['new'], 'title': 'Washington State Employment Security Department (page does not exist)'}
+Tag attributes are: {'href': '/w/index.php?title=Washington_State_Department_of_Enterprise_Services&action=edit&redlink=1', 'class': ['new'], 'title': 'Washington State Department of Enterprise Services (page does not exist)'}
+Tag attributes are: {'href': '/w/index.php?title=Washington_State_Department_of_Financial_Institutions&action=edit&redlink=1', 'class': ['new'], 'title': 'Washington State Department of Financial Institutions (page does not exist)'}
+Tag attributes are: {'href': '/wiki/Washington_State_Department_of_Fish_and_Wildlife', 'title': 'Washington State Department of Fish and Wildlife'}
+Tag attributes are: {'href': '/wiki/Washington_State_Department_of_Health', 'title': 'Washington State Department of Health'}
+Tag attributes are: {'href': '/wiki/Washington_State_Higher_Education_Coordinating_Board', 'title': 'Washington State Higher Education Coordinating Board'}
+Tag attributes are: {'href': '/wiki/Washington_State_Department_of_Information_Services', 'title': 'Washington State Department of Information Services'}
+Tag attributes are: {'href': '/wiki/Washington_State_Department_of_Labor_and_Industries', 'title': 'Washington State Department of Labor and Industries'}
+Tag attributes are: {'href': '/w/index.php?title=Washington_State_Department_of_Licensing&action=edit&redlink=1', 'class': ['new'], 'title': 'Washington State Department of Licensing (page does not exist)'}
+Tag attributes are: {'href': '/wiki/Washington_State_Liquor_and_Cannabis_Board', 'title': 'Washington State Liquor and Cannabis Board'}
+Tag attributes are: {'href': '/wiki/Washington_Military_Department', 'title': 'Washington Military Department'}
+Tag attributes are: {'href': '/wiki/Washington_State_Department_of_Natural_Resources', 'title': 'Washington State Department of Natural Resources'}
+Tag attributes are: {'href': '/wiki/Washington_State_Park_System', 'title': 'Washington State Park System'}
+Tag attributes are: {'href': '/wiki/Washington_State_Institute_for_Public_Policy', 'title': 'Washington State Institute for Public Policy'}
+Tag attributes are: {'href': '/wiki/Washington_State_Public_Stadium_Authority', 'title': 'Washington State Public Stadium Authority'}
+Tag attributes are: {'href': '/wiki/Washington_State_Public_Disclosure_Commission', 'title': 'Washington State Public Disclosure Commission'}
+Tag attributes are: {'href': '/w/index.php?title=Washington_State_Department_of_Retirement_Systems&action=edit&redlink=1', 'class': ['new'], 'title': 'Washington State Department of Retirement Systems (page does not exist)'}
+Tag attributes are: {'href': '/w/index.php?title=Washington_State_Department_of_Revenue&action=edit&redlink=1', 'class': ['new'], 'title': 'Washington State Department of Revenue (page does not exist)'}
+Tag attributes are: {'href': '/w/index.php?title=Washington_State_Department_of_Services_for_the_Blind&action=edit&redlink=1', 'class': ['new'], 'title': 'Washington State Department of Services for the Blind (page does not exist)'}
+Tag attributes are: {'href': '/wiki/Washington_State_Department_of_Social_and_Health_Services', 'title': 'Washington State Department of Social and Health Services'}
+Tag attributes are: {'href': '/wiki/Washington_State_Department_of_Transportation', 'title': 'Washington State Department of Transportation'}
+Tag attributes are: {'href': '/wiki/Washington_Utilities_and_Transportation_Commission', 'title': 'Washington Utilities and Transportation Commission'}
+Tag attributes are: {'href': '/wiki/List_of_regions_of_the_United_States#Washington', 'title': 'List of regions of the United States'}
+Tag attributes are: {'href': '/wiki/Western_Washington', 'title': 'Western Washington'}
+Tag attributes are: {'href': '/wiki/Kitsap_Peninsula', 'title': 'Kitsap Peninsula'}
+Tag attributes are: {'href': '/wiki/Long_Beach_Peninsula', 'title': 'Long Beach Peninsula'}
+Tag attributes are: {'href': '/wiki/Olympic_Peninsula', 'title': 'Olympic Peninsula'}
+Tag attributes are: {'href': '/wiki/Puget_Sound_region', 'title': 'Puget Sound region'}
+Tag attributes are: {'href': '/wiki/San_Juan_Islands', 'title': 'San Juan Islands'}
+Tag attributes are: {'href': '/wiki/Skagit_Valley', 'title': 'Skagit Valley'}
+Tag attributes are: {'href': '/wiki/Eastern_Washington', 'title': 'Eastern Washington'}
+Tag attributes are: {'href': '/wiki/Inland_Northwest_(United_States)', 'title': 'Inland Northwest (United States)'}
+Tag attributes are: {'href': '/wiki/Central_Washington', 'title': 'Central Washington'}
+Tag attributes are: {'href': '/wiki/Columbia_Plateau', 'title': 'Columbia Plateau'}
+Tag attributes are: {'href': '/wiki/Methow_River', 'title': 'Methow River'}
+Tag attributes are: {'href': '/wiki/Okanagan_Country', 'title': 'Okanagan Country'}
+Tag attributes are: {'href': '/wiki/Palouse', 'title': 'Palouse'}
+Tag attributes are: {'href': '/wiki/Yakima_River', 'title': 'Yakima River'}
+Tag attributes are: {'href': '/wiki/Cascade_Range', 'title': 'Cascade Range'}
+Tag attributes are: {'href': '/wiki/Columbia_River_Gorge', 'title': 'Columbia River Gorge'}
+Tag attributes are: {'href': '/wiki/Columbia_River', 'title': 'Columbia River'}
+Tag attributes are: {'href': '/wiki/List_of_cities_in_Washington', 'title': 'List of cities in Washington'}
+Tag attributes are: {'href': '/wiki/Seattle', 'title': 'Seattle'}
+Tag attributes are: {'href': '/wiki/Spokane,_Washington', 'title': 'Spokane, Washington'}
+Tag attributes are: {'href': '/wiki/Tacoma,_Washington', 'title': 'Tacoma, Washington'}
+Tag attributes are: {'href': '/wiki/Vancouver,_Washington', 'title': 'Vancouver, Washington'}
+Tag attributes are: {'href': '/wiki/Bellevue,_Washington', 'title': 'Bellevue, Washington'}
+Tag attributes are: {'href': '/wiki/Kent,_Washington', 'title': 'Kent, Washington'}
+Tag attributes are: {'href': '/wiki/Everett,_Washington', 'title': 'Everett, Washington'}
+Tag attributes are: {'href': '/wiki/Renton,_Washington', 'title': 'Renton, Washington'}
+Tag attributes are: {'href': '/wiki/Yakima,_Washington', 'title': 'Yakima, Washington'}
+Tag attributes are: {'href': '/wiki/Federal_Way,_Washington', 'title': 'Federal Way, Washington'}
+Tag attributes are: {'href': '/wiki/Spokane_Valley,_Washington', 'title': 'Spokane Valley, Washington'}
+Tag attributes are: {'href': '/wiki/Kirkland,_Washington', 'title': 'Kirkland, Washington'}
+Tag attributes are: {'href': '/wiki/Bellingham,_Washington', 'title': 'Bellingham, Washington'}
+Tag attributes are: {'href': '/wiki/Kennewick,_Washington', 'title': 'Kennewick, Washington'}
+Tag attributes are: {'href': '/wiki/Auburn,_Washington', 'title': 'Auburn, Washington'}
+Tag attributes are: {'href': '/wiki/Pasco,_Washington', 'title': 'Pasco, Washington'}
+Tag attributes are: {'href': '/wiki/Marysville,_Washington', 'title': 'Marysville, Washington'}
+Tag attributes are: {'href': '/wiki/Lakewood,_Washington', 'title': 'Lakewood, Washington'}
+Tag attributes are: {'href': '/wiki/Redmond,_Washington', 'title': 'Redmond, Washington'}
+Tag attributes are: {'href': '/wiki/Shoreline,_Washington', 'title': 'Shoreline, Washington'}
+Tag attributes are: {'href': '/wiki/Richland,_Washington', 'title': 'Richland, Washington'}
+Tag attributes are: {'href': '/wiki/Seattle_metropolitan_area', 'title': 'Seattle metropolitan area'}
+Tag attributes are: {'href': '/wiki/Spokane_metropolitan_area', 'title': 'Spokane metropolitan area'}
+Tag attributes are: {'href': '/wiki/Tri-Cities,_Washington', 'title': 'Tri-Cities, Washington'}
+Tag attributes are: {'href': '/wiki/Wenatchee%E2%80%93East_Wenatchee_metropolitan_area', 'title': 'Wenatchee–East Wenatchee metropolitan area'}
+Tag attributes are: {'href': '/wiki/Portland_metropolitan_area', 'title': 'Portland metropolitan area'}
+Tag attributes are: {'class': ['mw-selflink', 'selflink']}
+Tag attributes are: {'href': '/wiki/Adams_County,_Washington', 'title': 'Adams County, Washington'}
+Tag attributes are: {'href': '/wiki/Asotin_County,_Washington', 'title': 'Asotin County, Washington'}
+Tag attributes are: {'href': '/wiki/Benton_County,_Washington', 'title': 'Benton County, Washington'}
+Tag attributes are: {'href': '/wiki/Chelan_County,_Washington', 'title': 'Chelan County, Washington'}
+Tag attributes are: {'href': '/wiki/Clallam_County,_Washington', 'title': 'Clallam County, Washington'}
+Tag attributes are: {'href': '/wiki/Clark_County,_Washington', 'title': 'Clark County, Washington'}
+Tag attributes are: {'href': '/wiki/Columbia_County,_Washington', 'title': 'Columbia County, Washington'}
+Tag attributes are: {'href': '/wiki/Cowlitz_County,_Washington', 'title': 'Cowlitz County, Washington'}
+Tag attributes are: {'href': '/wiki/Douglas_County,_Washington', 'title': 'Douglas County, Washington'}
+Tag attributes are: {'href': '/wiki/Ferry_County,_Washington', 'title': 'Ferry County, Washington'}
+Tag attributes are: {'href': '/wiki/Franklin_County,_Washington', 'title': 'Franklin County, Washington'}
+Tag attributes are: {'href': '/wiki/Garfield_County,_Washington', 'title': 'Garfield County, Washington'}
+Tag attributes are: {'href': '/wiki/Grant_County,_Washington', 'title': 'Grant County, Washington'}
+Tag attributes are: {'href': '/wiki/Grays_Harbor_County,_Washington', 'title': 'Grays Harbor County, Washington'}
+Tag attributes are: {'href': '/wiki/Island_County,_Washington', 'title': 'Island County, Washington'}
+Tag attributes are: {'href': '/wiki/Jefferson_County,_Washington', 'title': 'Jefferson County, Washington'}
+Tag attributes are: {'href': '/wiki/King_County,_Washington', 'title': 'King County, Washington'}
+Tag attributes are: {'href': '/wiki/Kitsap_County,_Washington', 'title': 'Kitsap County, Washington'}
+Tag attributes are: {'href': '/wiki/Kittitas_County,_Washington', 'title': 'Kittitas County, Washington'}
+Tag attributes are: {'href': '/wiki/Klickitat_County,_Washington', 'title': 'Klickitat County, Washington'}
+Tag attributes are: {'href': '/wiki/Lewis_County,_Washington', 'title': 'Lewis County, Washington'}
+Tag attributes are: {'href': '/wiki/Lincoln_County,_Washington', 'title': 'Lincoln County, Washington'}
+Tag attributes are: {'href': '/wiki/Mason_County,_Washington', 'title': 'Mason County, Washington'}
+Tag attributes are: {'href': '/wiki/Okanogan_County,_Washington', 'title': 'Okanogan County, Washington'}
+Tag attributes are: {'href': '/wiki/Pacific_County,_Washington', 'title': 'Pacific County, Washington'}
+Tag attributes are: {'href': '/wiki/Pend_Oreille_County,_Washington', 'title': 'Pend Oreille County, Washington'}
+Tag attributes are: {'href': '/wiki/Pierce_County,_Washington', 'title': 'Pierce County, Washington'}
+Tag attributes are: {'href': '/wiki/San_Juan_County,_Washington', 'title': 'San Juan County, Washington'}
+Tag attributes are: {'href': '/wiki/Skagit_County,_Washington', 'title': 'Skagit County, Washington'}
+Tag attributes are: {'href': '/wiki/Skamania_County,_Washington', 'title': 'Skamania County, Washington'}
+Tag attributes are: {'href': '/wiki/Snohomish_County,_Washington', 'title': 'Snohomish County, Washington'}
+Tag attributes are: {'href': '/wiki/Spokane_County,_Washington', 'title': 'Spokane County, Washington'}
+Tag attributes are: {'href': '/wiki/Stevens_County,_Washington', 'title': 'Stevens County, Washington'}
+Tag attributes are: {'href': '/wiki/Thurston_County,_Washington', 'title': 'Thurston County, Washington'}
+Tag attributes are: {'href': '/wiki/Wahkiakum_County,_Washington', 'title': 'Wahkiakum County, Washington'}
+Tag attributes are: {'href': '/wiki/Walla_Walla_County,_Washington', 'title': 'Walla Walla County, Washington'}
+Tag attributes are: {'href': '/wiki/Whatcom_County,_Washington', 'title': 'Whatcom County, Washington'}
+Tag attributes are: {'href': '/wiki/Whitman_County,_Washington', 'title': 'Whitman County, Washington'}
+Tag attributes are: {'href': '/wiki/Yakima_County,_Washington', 'title': 'Yakima County, Washington'}
+Tag attributes are: {'dir': 'ltr', 'href': 'https://en.wikipedia.org/w/index.php?title=List_of_counties_in_Washington&oldid=817623095'}
+Tag attributes are: {'href': '/wiki/Help:Category', 'title': 'Help:Category'}
+Tag attributes are: {'href': '/wiki/Category:Labelled_map_templates', 'title': 'Category:Labelled map templates'}
+Tag attributes are: {'href': '/wiki/Category:Lists_of_counties_of_the_United_States_by_state', 'title': 'Category:Lists of counties of the United States by state'}
+Tag attributes are: {'href': '/wiki/Category:Washington_(state)_counties', 'title': 'Category:Washington (state) counties'}
+Tag attributes are: {'href': '/wiki/Category:Washington_(state)_geography-related_lists', 'title': 'Category:Washington (state) geography-related lists'}
+Tag attributes are: {'href': '/wiki/Special:MyTalk', 'title': 'Discussion about edits from this IP address [n]', 'accesskey': ['n']}
+Tag attributes are: {'href': '/wiki/Special:MyContributions', 'title': 'A list of edits made from this IP address [y]', 'accesskey': ['y']}
+Tag attributes are: {'href': '/w/index.php?title=Special:CreateAccount&returnto=List+of+counties+in+Washington', 'title': 'You are encouraged to create an account and log in; however, it is not mandatory'}
+Tag attributes are: {'href': '/w/index.php?title=Special:UserLogin&returnto=List+of+counties+in+Washington', 'title': "You're encouraged to log in; however, it's not mandatory. [o]", 'accesskey': ['o']}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Washington', 'title': 'View the content page [c]', 'accesskey': ['c']}
+Tag attributes are: {'href': '/wiki/Talk:List_of_counties_in_Washington', 'rel': ['discussion'], 'title': 'Discussion about the content page [t]', 'accesskey': ['t']}
+Tag attributes are: {'href': '/wiki/List_of_counties_in_Washington'}
+Tag attributes are: {'href': '/w/index.php?title=List_of_counties_in_Washington&action=edit', 'title': 'Edit this page [e]', 'accesskey': ['e']}
+Tag attributes are: {'href': '/w/index.php?title=List_of_counties_in_Washington&action=history', 'title': 'Past revisions of this page [h]', 'accesskey': ['h']}
+Tag attributes are: {'class': ['mw-wiki-logo'], 'href': '/wiki/Main_Page', 'title': 'Visit the main page'}
+Tag attributes are: {'href': '/wiki/Main_Page', 'title': 'Visit the main page [z]', 'accesskey': ['z']}
+Tag attributes are: {'href': '/wiki/Portal:Contents', 'title': 'Guides to browsing Wikipedia'}
+Tag attributes are: {'href': '/wiki/Portal:Featured_content', 'title': 'Featured content – the best of Wikipedia'}
+Tag attributes are: {'href': '/wiki/Portal:Current_events', 'title': 'Find background information on current events'}
+Tag attributes are: {'href': '/wiki/Special:Random', 'title': 'Load a random article [x]', 'accesskey': ['x']}
+Tag attributes are: {'href': 'https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en', 'title': 'Support us'}
+Tag attributes are: {'href': '//shop.wikimedia.org', 'title': 'Visit the Wikipedia store'}
+Tag attributes are: {'href': '/wiki/Help:Contents', 'title': 'Guidance on how to use and edit Wikipedia'}
+Tag attributes are: {'href': '/wiki/Wikipedia:About', 'title': 'Find out about Wikipedia'}
+Tag attributes are: {'href': '/wiki/Wikipedia:Community_portal', 'title': 'About the project, what you can do, where to find things'}
+Tag attributes are: {'href': '/wiki/Special:RecentChanges', 'title': 'A list of recent changes in the wiki [r]', 'accesskey': ['r']}
+Tag attributes are: {'href': '//en.wikipedia.org/wiki/Wikipedia:Contact_us', 'title': 'How to contact Wikipedia'}
+Tag attributes are: {'href': '/wiki/Special:WhatLinksHere/List_of_counties_in_Washington', 'title': 'List of all English Wikipedia pages containing links to this page [j]', 'accesskey': ['j']}
+Tag attributes are: {'href': '/wiki/Special:RecentChangesLinked/List_of_counties_in_Washington', 'rel': ['nofollow'], 'title': 'Recent changes in pages linked from this page [k]', 'accesskey': ['k']}
+Tag attributes are: {'href': '/wiki/Wikipedia:File_Upload_Wizard', 'title': 'Upload files [u]', 'accesskey': ['u']}
+Tag attributes are: {'href': '/wiki/Special:SpecialPages', 'title': 'A list of all special pages [q]', 'accesskey': ['q']}
+Tag attributes are: {'href': '/w/index.php?title=List_of_counties_in_Washington&oldid=817623095', 'title': 'Permanent link to this revision of the page'}
+Tag attributes are: {'href': '/w/index.php?title=List_of_counties_in_Washington&action=info', 'title': 'More information about this page'}
+Tag attributes are: {'href': 'https://www.wikidata.org/wiki/Special:EntityPage/Q849313', 'title': 'Link to connected data repository item [g]', 'accesskey': ['g']}
+Tag attributes are: {'href': '/w/index.php?title=Special:CiteThisPage&page=List_of_counties_in_Washington&id=817623095', 'title': 'Information on how to cite this page'}
+Tag attributes are: {'href': '/w/index.php?title=Special:Book&bookcmd=book_creator&referer=List+of+counties+in+Washington'}
+Tag attributes are: {'href': '/w/index.php?title=Special:ElectronPdf&page=List+of+counties+in+Washington&action=show-download-screen'}
+Tag attributes are: {'href': '/w/index.php?title=List_of_counties_in_Washington&printable=yes', 'title': 'Printable version of this page [p]', 'accesskey': ['p']}
+Tag attributes are: {'href': 'https://commons.wikimedia.org/wiki/Category:Counties_of_Washington_(state)', 'hreflang': 'en'}
+Tag attributes are: {'href': 'https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A7%D8%AA_%D9%88%D9%84%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86', 'title': 'قائمة مقاطعات ولاية واشنطن – Arabic', 'lang': 'ar', 'hreflang': 'ar', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://bar.wikipedia.org/wiki/Countys_in_Washington', 'title': 'Countys in Washington – Bavarian', 'lang': 'bar', 'hreflang': 'bar', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://cs.wikipedia.org/wiki/Seznam_okres%C5%AF_ve_st%C3%A1t%C4%9B_Washington', 'title': 'Seznam okresů ve státě Washington – Czech', 'lang': 'cs', 'hreflang': 'cs', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://de.wikipedia.org/wiki/Liste_der_Countys_in_Washington', 'title': 'Liste der Countys in Washington – German', 'lang': 'de', 'hreflang': 'de', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://es.wikipedia.org/wiki/Anexo:Condados_de_Washington', 'title': 'Anexo:Condados de Washington – Spanish', 'lang': 'es', 'hreflang': 'es', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://eo.wikipedia.org/wiki/Listo_de_kantonoj_de_Va%C5%9Dingtonio', 'title': 'Listo de kantonoj de Vaŝingtonio – Esperanto', 'lang': 'eo', 'hreflang': 'eo', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%88%D8%A7%D8%B4%DB%8C%D9%86%DA%AF%D8%AA%D9%86', 'title': 'فهرست شهرستان\u200cهای واشینگتن – Persian', 'lang': 'fa', 'hreflang': 'fa', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://fr.wikipedia.org/wiki/Comt%C3%A9s_de_l%27%C3%89tat_de_Washington', 'title': "Comtés de l'État de Washington – French", 'lang': 'fr', 'hreflang': 'fr', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://fy.wikipedia.org/wiki/List_fan_countys_yn_Washington', 'title': 'List fan countys yn Washington – Western Frisian', 'lang': 'fy', 'hreflang': 'fy', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://ga.wikipedia.org/wiki/Contaetha_in_Washington', 'title': 'Contaetha in Washington – Irish', 'lang': 'ga', 'hreflang': 'ga', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://gl.wikipedia.org/wiki/Condados_de_Washington', 'title': 'Condados de Washington – Galician', 'lang': 'gl', 'hreflang': 'gl', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://ko.wikipedia.org/wiki/%EC%9B%8C%EC%8B%B1%ED%84%B4_%EC%A3%BC%EC%9D%98_%EA%B5%B0_%EB%AA%A9%EB%A1%9D', 'title': '워싱턴 주의 군 목록 – Korean', 'lang': 'ko', 'hreflang': 'ko', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://id.wikipedia.org/wiki/Daftar_county_di_Washington', 'title': 'Daftar county di Washington – Indonesian', 'lang': 'id', 'hreflang': 'id', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://it.wikipedia.org/wiki/Contee_dello_stato_di_Washington', 'title': 'Contee dello stato di Washington – Italian', 'lang': 'it', 'hreflang': 'it', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%95%D7%96%D7%95%D7%AA_%D7%95%D7%95%D7%A9%D7%99%D7%A0%D7%92%D7%98%D7%95%D7%9F', 'title': 'מחוזות וושינגטון – Hebrew', 'lang': 'he', 'hreflang': 'he', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://hu.wikipedia.org/wiki/Washington_megy%C3%A9inek_list%C3%A1ja', 'title': 'Washington megyéinek listája – Hungarian', 'lang': 'hu', 'hreflang': 'hu', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://nl.wikipedia.org/wiki/Lijst_van_county%27s_in_Washington', 'title': "Lijst van county's in Washington – Dutch", 'lang': 'nl', 'hreflang': 'nl', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E5%B7%9E%E3%81%AE%E9%83%A1%E4%B8%80%E8%A6%A7', 'title': 'ワシントン州の郡一覧 – Japanese', 'lang': 'ja', 'hreflang': 'ja', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://no.wikipedia.org/wiki/Liste_over_fylker_i_Washington', 'title': 'Liste over fylker i Washington – Norwegian', 'lang': 'no', 'hreflang': 'no', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://pl.wikipedia.org/wiki/Lista_hrabstw_w_stanie_Waszyngton', 'title': 'Lista hrabstw w stanie Waszyngton – Polish', 'lang': 'pl', 'hreflang': 'pl', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://pt.wikipedia.org/wiki/Lista_de_condados_de_Washington', 'title': 'Lista de condados de Washington – Portuguese', 'lang': 'pt', 'hreflang': 'pt', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://ro.wikipedia.org/wiki/List%C4%83_de_comitate_din_statul_Washington', 'title': 'Listă de comitate din statul Washington – Romanian', 'lang': 'ro', 'hreflang': 'ro', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D0%B2_%D0%92%D0%B0%D1%88%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD%D0%B0', 'title': 'Список округов Вашингтона – Russian', 'lang': 'ru', 'hreflang': 'ru', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://sq.wikipedia.org/wiki/Qarqe_n%C3%AB_Washington', 'title': 'Qarqe në Washington – Albanian', 'lang': 'sq', 'hreflang': 'sq', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://simple.wikipedia.org/wiki/List_of_counties_in_Washington', 'title': 'List of counties in Washington – Simple English', 'lang': 'simple', 'hreflang': 'simple', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_countyn_i_Washington', 'title': 'Lista över countyn i Washington – Swedish', 'lang': 'sv', 'hreflang': 'sv', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D1%96%D0%B2_%D1%88%D1%82%D0%B0%D1%82%D1%83_%D0%92%D0%B0%D1%88%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD', 'title': 'Список округів штату Вашингтон – Ukrainian', 'lang': 'uk', 'hreflang': 'uk', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://zh.wikipedia.org/wiki/%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92', 'title': '华盛顿州行政区划 – Chinese', 'lang': 'zh', 'hreflang': 'zh', 'class': ['interlanguage-link-target']}
+Tag attributes are: {'href': 'https://www.wikidata.org/wiki/Special:EntityPage/Q849313#sitelinks-wikipedia', 'title': 'Edit interlanguage links', 'class': ['wbc-editpage']}
+Tag attributes are: {'rel': ['license'], 'href': '//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'}
+Tag attributes are: {'rel': ['license'], 'href': '//creativecommons.org/licenses/by-sa/3.0/', 'style': 'display:none;'}
+Tag attributes are: {'href': '//wikimediafoundation.org/wiki/Terms_of_Use'}
+Tag attributes are: {'href': '//wikimediafoundation.org/wiki/Privacy_policy'}
+Tag attributes are: {'href': '//www.wikimediafoundation.org/'}
+Tag attributes are: {'href': 'https://wikimediafoundation.org/wiki/Privacy_policy', 'class': ['extiw'], 'title': 'wmf:Privacy policy'}
+Tag attributes are: {'href': '/wiki/Wikipedia:About', 'title': 'Wikipedia:About'}
+Tag attributes are: {'href': '/wiki/Wikipedia:General_disclaimer', 'title': 'Wikipedia:General disclaimer'}
+Tag attributes are: {'href': '//en.wikipedia.org/wiki/Wikipedia:Contact_us'}
+Tag attributes are: {'href': 'https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute'}
+Tag attributes are: {'href': 'https://wikimediafoundation.org/wiki/Cookie_statement'}
+Tag attributes are: {'href': '//en.m.wikipedia.org/w/index.php?title=List_of_counties_in_Washington&mobileaction=toggle_view_mobile', 'class': ['noprint', 'stopMobileRedirectToggle']}
+Tag attributes are: {'href': 'https://wikimediafoundation.org/'}
+Tag attributes are: {'href': '//www.mediawiki.org/'}
