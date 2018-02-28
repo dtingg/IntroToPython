@@ -31,6 +31,7 @@ def write_file(formatted):
 
 # Create a main function that allows the script to be run on its own from the command line
 if __name__ == "__main__":
+
     # Introduce the program
     print("Welcome to Dianna's Web Scraper Program!")
 
@@ -41,9 +42,14 @@ if __name__ == "__main__":
     tag = input("Please enter a type of HTML tag to search for: ")
 
     output = get_tags(url, tag)
+
+    while output == []:
+        tag = input("There are no tags like that in your website. Please enter a different tag: ")
+        output = get_tags(url, tag)
+
     formatted = format(output)
     file = write_file(formatted)
 
     # Tell the user where the output is
-    # test url was https://en.wikipedia.org/wiki/List_of_counties_in_Washington and test tag was a
+    # test url was "https://en.wikipedia.org/wiki/List_of_counties_in_Washington" and test tag was "a"
     print("Your output is listed in the file web_output.txt.")
