@@ -1,8 +1,6 @@
 # Assignment 04
 
-Define two lists at the top of your file
-
-These lists should match up.
+Define two lists at the top of your file. These lists should match up.
 * Use the zip function to merge these lists into a dictionary. (What data type does zip() return? How do you coerce that to the right data type?)
 * The names should be the keys, and the age should be the value. 
 * Ask the user to input a user name
