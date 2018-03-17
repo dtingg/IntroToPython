@@ -12,6 +12,7 @@ class Banking():
 
 # Banking: Track initial account balance
     def __init__(self, user, balance):
+        self.user = user
         self.balance = balance
         print("Hi {}! Welcome to Tingg Bank. Your initial account balance is ${}.".format(user, "%.2f" % balance))
 
