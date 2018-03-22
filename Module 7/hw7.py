@@ -38,6 +38,10 @@ if __name__ == "__main__":
     # Ask the user to enter a URL
     url = input("Please enter a URL: ")
 
+    # Check to see if url starts with http
+    if url.startswith("www"):
+        url = "http://" + url
+
     # Ask the user to enter a type of HTML tag
     tag = input("Please enter a type of HTML tag to search for: ")
 
