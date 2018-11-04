@@ -14,9 +14,8 @@ with open("./land_time_forgot.txt") as b:
 words = []
 for l in lines:
     strip_line = l.strip().lower()
-    no_punct = strip_line.replace('"', '').replace("  ", " ").replace(". ", " ").replace("!", "").replace("--",
-                                                                                                          " ").replace(
-        "; ", " ").replace("?", "").replace(", ", " ").replace(": ", " ").replace("(", "").replace(")", "")
+    no_punct = strip_line.replace('"', '').replace("  ", " ").replace(". ", " ").replace("!", "").replace("--", " ")\
+        .replace("; ", " ").replace("?", "").replace(", ", " ").replace(": ", " ").replace("(", "").replace(")", "")
     words.extend(no_punct.split(" "))
 
 # Print a sentence using format with the total number of words and the unique number of words (use a set)
