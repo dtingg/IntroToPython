@@ -1,6 +1,6 @@
 # Module 9 - Lab 1
 
-Following the example we walked through in class, and another example on Github [https://github.com/summerela/intro_programming_python/blob/master/Module8/4_Analysis_Pipeline.ipynb], create a jupyter notebook that completes the following steps. Upload the notebook to your github repo and submit the link for credit or post your notebook file. 
+Following the example we walked through in class, [and another example on Github] (https://github.com/summerela/intro_programming_python/blob/master/Module8/4_Analysis_Pipeline.ipynb), create a jupyter notebook that completes the following steps. Upload the notebook to your github repo and submit the link for credit or post your notebook file. 
 
 Use the following data set to answer the questions for your homework
 
